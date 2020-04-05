@@ -13,3 +13,13 @@ THE TECHNOLOGY JOURNAL: https://www.facebook.com/thetechnologyjournal/
 O-MEGA VIRUSES: https://www.facebook.com/103523504353681/posts/103527944353237/?d=n
 
 ABC 123 USA, LLC https://www.facebook.com/abc123usa/
+
+===========================
+
+SOCIAL MEDIA LINKS:
+
+INSTAGRAM: https://www.instagram.com/abc123usofa/
+
+TWITTER: https://twitter.com/ABC123_USA
+
+FACEBOOK: https://www.facebook.com/abc123usa/
