@@ -1,6 +1,17 @@
 # ARTIFICIAL INTELLIGENCE 2.0 CODE
 # O-MEGA_VIRUS_2
 
+==========================
+
+Prerequisite reading:
+
+- ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
+
+- ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION: https://www.facebook.com/aibyabc123/
+
+=========================
+
+
 O-MEGA VIRUS_V2
 RUN THE myFile.sh SHELL SCRIPT TO EXECUTE. THIS IS A WEAPONIZED TEMPLATE OF THE VIRUS FOR USE BY ROBOTS/MACHINES MADE WITH 
 ARTIFICIAL INTELLIGENCE 2.0.
