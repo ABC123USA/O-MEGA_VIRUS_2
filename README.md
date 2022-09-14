@@ -3,6 +3,18 @@
 
 ==========================
 
+🌐 GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
+
+🌐 ABC 123 USA ™
+
+🌐 ABC 123 DESYGN ™
+
+🌐 ABC 123 FILMS ™
+
+=============================================================
+
+                     🌐 MAGENTRON ™ TECHNOLOGY 🌐
+                     
 Prerequisite reading:
 
 - ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
